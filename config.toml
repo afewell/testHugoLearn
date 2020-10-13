@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://afewell.github.io/testHugoLearn/"
 languageCode = "en-us"
 title = "vSphere with Tanzu 101"
 theme = "learn"
