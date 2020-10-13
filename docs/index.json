@@ -1,307 +1,307 @@
 [
 {
-	"uri": "/courseintroduction/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/",
 	"title": "Course Introduction",
 	"tags": [],
 	"description": "",
 	"content": "Course Introduction Welcome to the vSphere with Tanzu 101 Course! Please click on the right arrow to proceed with the course.\n"
 },
 {
-	"uri": "/courseintroduction/techpreview/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/techpreview/",
 	"title": "Tech Preview",
 	"tags": [],
 	"description": "",
 	"content": "Please Note: This course is currently in technical preview for additional review and feedback before the course is generally available. The purpose of the preview is to validate all information in the course and to receive input on additions on improvements we can make before GA.\nAccordingly, please be aware that any technical details in the course are still under review and may not be fully accurate.\nYour feedback is extremely important! We really need your feedback to make this course the best experience we can. Any and all suggestions are appreciated from small grammar improvements to bigger additions. Please describe your suggestions with as much detail as possible. If you would like to discuss directly with the course development team we would appreciate it!\nPlease submit a feedback ticket here, or feel free to reach out to afewell@vmware.com with other feedback or suggestions.\n"
 },
 {
-	"uri": "/courseintroduction/welcometothecourse/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/welcometothecourse/",
 	"title": "Welcome to the Course",
 	"tags": [],
 	"description": "",
 	"content": "This course provides a technical introduction to vSphere with Tanzu.\nIf you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course. This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.\nThank you for investing your time!\n  "
 },
 {
-	"uri": "/courseintroduction/targetaudience/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/targetaudience/",
 	"title": "Target Audience",
 	"tags": [],
 	"description": "",
 	"content": "This course is designed for Information Technology Professionals interested in learning more about VMware vSphere with Tanzu.\nPlease complete the course prerequisites and review the lab completion difficulty to ensure you are fully prepared to succeed in this course.\n"
 },
 {
-	"uri": "/courseintroduction/prerequisites/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/prerequisites/",
 	"title": "Pre Requisites",
 	"tags": [],
 	"description": "",
 	"content": "We recommend taking the Introduction to VMware Tanzu Portfolio course prior to taking the vSphere with Tanzu 101 course. We also recommend completing the ModernApps Ninja 101 course to learn about the community resources available to support this course and maximize your learning experience.\nThis course assumes familiarity with Kubernetes and Cloud Native Technologies. If you are not familiar with these technologies, we recommend checking out KubeAcademy by VMware, which has a terrific set of free, bite-size video resources on the basics of containers, Kubernetes and cloud native that are great for beginners.\nBefore taking this course, you should also have familiarity with vSphere administration. If you need additional background in vSphere, we recommend checking out VMware Hands on Labs, which offers a number of vSphere labs and content.\n"
 },
 {
-	"uri": "/courseintroduction/courseupdatesandfreshness/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/courseupdatesandfreshness/",
 	"title": "Course Updates and Freshness",
 	"tags": [],
 	"description": "",
 	"content": "We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always please refer to the official VMware Tanzu Portfiolio Website and your VMware account team for the latest details on products covered in this course. As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify students in advance of any significant updates are made to minimize any changes to course completion requirements. "
 },
 {
-	"uri": "/courseintroduction/coursefeedback/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/coursefeedback/",
 	"title": "Course Feedback",
 	"tags": [],
 	"description": "",
 	"content": "Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!\nCompletion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.\nThe link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form. Please complete the Feedback form for this course at this link.\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/",
 	"title": "Introduction to VSphere With Tanzu",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2 Introduction to vSphere with Tanzu Please click the right arrow to proceed through this section.\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/",
 	"title": "The Big Picture",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2.1 vSphere with Tanzu: The Big Picture Please click the right arrow to proceed through this section.\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/",
 	"title": "Introducing VSphere With Tanzu",
 	"tags": [],
 	"description": "",
 	"content": "*Please Note - vSphere with Kubernetes has been renamed to vSphere with Tanzu.   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/",
 	"title": "What Is VSphere With Tanzu",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/",
 	"title": "VSphere With Tanzu Features and Benefits",
 	"tags": [],
 	"description": "",
 	"content": " "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/",
 	"title": "The Need for Infrastructure Modernization",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/",
 	"title": "Kubernetes Impact and Opportunity",
 	"tags": [],
 	"description": "",
 	"content": "*Please note: Project Pacific was the pre-release code name for vSphere 7 with Tanzu   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/",
 	"title": "Cloud Native Infrastructure Requirements",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/",
 	"title": "VSphere With Tanzu Whiteboard",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/",
 	"title": "Compare VSphere and VCF with Tanzu",
 	"tags": [],
 	"description": "",
 	"content": " "
 },
 {
-	"uri": "/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/",
 	"title": "Intro to vSphere with Tanzu Section Summary",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/",
 	"title": "Tanzu Kubernetes Grid Overview",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2.2 Tanzu Kubernetes Grid Overview Please click the right arrow to proceed through this section.\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/",
 	"title": "Kubernetes Refresher",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/",
 	"title": "Requirements For Operating Kubernetes",
 	"tags": [],
 	"description": "",
 	"content": " "
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/",
 	"title": "What Is Tanzu Kubernetes Grid?",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/",
 	"title": "TKG Key Capabilities",
 	"tags": [],
 	"description": "",
 	"content": "Tanzu Kubernetes Grid Key Capabilities\rReliably deploy and run containerized workloads across private and public clouds.\n\rConsistent Kubernetes everywhere\rUse your existing data center tools and workflows to give developers secure, self-serve access to conformant Kubernetes clusters in your VMware private cloud, and extend the same consistent Kubernetes runtime across your public cloud and edge environments.\n\rAutomated multicluster operations\rSimplify operations of large-scale, multicluster Kubernetes environments, and keep your workloads properly isolated. Automate lifecycle management to reduce your risk and shift your focus to more strategic work.\n\rValidated integrated services\rStreamline the deployment and management of local and in-cluster platform services\u0026mdash;like logging, monitoring, networking, and storage services\u0026mdash;to more easily configure and maintain a production-ready Kubernetes environment.\n\rEnterprise-wide management\rAs you scale your Kubernetes footprint, keep your operational burden low through a tight integration with\u0026nbsp;VMware Tanzu Mission Control. Get global visibility across teams, clusters and workloads. Automate multiregion configuration and policy management.\n\rKubernetes on vSphere\rExtend your enterprise-ready Kubernetes operating model across data centers and clouds through a tight integration with\u0026nbsp;vSphere 7 with Kubernetes\u0026mdash;available as part of the VMware Cloud Foundation 4 stack.\n\rExpert support\rGet 24x7 production support from VMware Global Support Services. Access guidance from the Kubernetes community and the broader cloud native ecosystem.\n\r\r\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/",
 	"title": "Operating Kubernetes with TKG",
 	"tags": [],
 	"description": "",
 	"content": " "
 },
 {
-	"uri": "/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/",
 	"title": "TKG Features and Benefits",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/",
 	"title": "vSphere 7 With Tanzu Technical Overview",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2.3 vSphere 7 With Tanzu Technical Overview Please click the right arrow to proceed through this section.\n"
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/",
 	"title": "An Elevated View of the Tanzu Kubernetes Grid Service Architecture",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/",
 	"title": "WCP and Supervisor Cluster Part 1",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/",
 	"title": "SupervisorClusterHowItWorks",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/",
 	"title": "WCP and Supervisor Cluster Part 2",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/",
 	"title": "SupervisorNamespaces",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/",
 	"title": "AppDeploymentOnVsphereWithTanzu",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/",
 	"title": "Demo - How to Deploy vSphere with Tanzu",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/",
 	"title": "Demo - Working with TKG Clusters",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/",
+	"uri": "https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/",
 	"title": "Demo - Tanzu Mission Control for Tanzu Standard",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/closingsummary/",
+	"uri": "https://afewell.github.io/testHugoLearn/closingsummary/",
 	"title": "Closing Summary",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 3 Summary and Course Completion Requirements Please click on the right arrow to proceed.\n"
 },
 {
-	"uri": "/closingsummary/resourcesandreferences/",
+	"uri": "https://afewell.github.io/testHugoLearn/closingsummary/resourcesandreferences/",
 	"title": "Resources and References",
 	"tags": [],
 	"description": "",
 	"content": "Links to additional materials:\n For more information on vSphere with Tanzu check out the vSphere product page. vSphere with Tanzu by Kit Colbert vSphere with Tanzu - YouTube by Sheldon D'Paiva  ebook: Deliver Developer-Ready Infrastructure Using vSphere with Tanzu KubeAcademy courses are composed of a series of bite-size video lessons - terrific resource for learning about containers, Kubernetes, and Cloud Native Concepts. Scaling a Tanzu Kubernetes Cluster by Kenny Coleman An Elevated View of the Tanzu Kubernetes Kubernetes Grid Service Architecture by Kenny Coleman Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for vSphere by Kenny Coleman  Web: https://tanzu.vmware.com\nBlog: https://tanzu.vmware.com/blog\nTwitter: @vmwaretanzu\nEmail: asktanzu@vmware.com\n"
 },
 {
-	"uri": "/closingsummary/coursesurvey/",
+	"uri": "https://afewell.github.io/testHugoLearn/closingsummary/coursesurvey/",
 	"title": "Course Survey",
 	"tags": [],
 	"description": "",
 	"content": "Your Survey response is critical to help ensure we can support the business case to continue this program and is greatly appreciated!\nCompletion of the course survey is required to receive a certificate of completion for this course.\nPlease complete the Survey for this course at this link.\n"
 },
 {
-	"uri": "/closingsummary/coursefeedback/",
+	"uri": "https://afewell.github.io/testHugoLearn/closingsummary/coursefeedback/",
 	"title": "Course Feedback",
 	"tags": [],
 	"description": "",
 	"content": "Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!\nCompletion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.\nThe link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form. Please complete the Feedback form for this course at this link.\n"
 },
 {
-	"uri": "/closingsummary/coursecomplete/",
+	"uri": "https://afewell.github.io/testHugoLearn/closingsummary/coursecomplete/",
 	"title": "Course Complete",
 	"tags": [],
 	"description": "",
 	"content": "Thank you for completing the course!\nPlease see the progress tab in this course to see a record of your assessment grading. If you have completed the course assessments with a score above the passing grade, the progress tab will display the option to receive a certificate of course completion.\nPlease check out modernapps.ninja to see additional courses, and join our google group to receive regular updates as new courses and content are added frequently.\n"
 },
 {
-	"uri": "/",
+	"uri": "https://afewell.github.io/testHugoLearn/",
 	"title": "vSphere with Tanzu 101",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/courseintroduction/welcometotheninjacommunity/",
+	"uri": "https://afewell.github.io/testHugoLearn/courseintroduction/welcometotheninjacommunity/",
 	"title": "Welcome to the ModernApps Ninja Learning Community",
 	"tags": [],
 	"description": "",
 	"content": "   "
 },
 {
-	"uri": "/categories/",
+	"uri": "https://afewell.github.io/testHugoLearn/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/",
+	"uri": "https://afewell.github.io/testHugoLearn/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

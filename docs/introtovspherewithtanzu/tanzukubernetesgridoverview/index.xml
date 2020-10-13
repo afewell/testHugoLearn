@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanzu Kubernetes Grid Overview on vSphere with Tanzu 101</title>
-    <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/</link>
+    <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/</link>
     <description>Recent content in Tanzu Kubernetes Grid Overview on vSphere with Tanzu 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 03:23:55 -0700</lastBuildDate><atom:link href="/introtovspherewithtanzu/tanzukubernetesgridoverview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 03:23:55 -0700</lastBuildDate><atom:link href="https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes Refresher</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</link>
       <pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Requirements For Operating Kubernetes</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</link>
       <pubDate>Mon, 12 Oct 2020 18:35:13 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>What Is Tanzu Kubernetes Grid?</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</link>
       <pubDate>Mon, 12 Oct 2020 18:39:19 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>TKG Key Capabilities</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</link>
       <pubDate>Mon, 12 Oct 2020 18:40:02 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</guid>
       <description>Tanzu Kubernetes Grid Key CapabilitiesReliably deploy and run containerized workloads across private and public clouds.
 Consistent Kubernetes everywhereUse your existing data center tools and workflows to give developers secure, self-serve access to conformant Kubernetes clusters in your VMware private cloud, and extend the same consistent Kubernetes runtime across your public cloud and edge environments.
 Automated multicluster operationsSimplify operations of large-scale, multicluster Kubernetes environments, and keep your workloads properly isolated.</description>
@@ -47,19 +47,19 @@
     
     <item>
       <title>Operating Kubernetes with TKG</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</link>
       <pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>TKG Features and Benefits</title>
-      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</link>
       <pubDate>Mon, 12 Oct 2020 18:40:54 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</guid>
       <description>   </description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closing Summary on vSphere with Tanzu 101</title>
-    <link>/closingsummary/</link>
+    <link>https://afewell.github.io/testHugoLearn/closingsummary/</link>
     <description>Recent content in Closing Summary on vSphere with Tanzu 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 20:17:08 -0700</lastBuildDate><atom:link href="/closingsummary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 20:17:08 -0700</lastBuildDate><atom:link href="https://afewell.github.io/testHugoLearn/closingsummary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources and References</title>
-      <link>/closingsummary/resourcesandreferences/</link>
+      <link>https://afewell.github.io/testHugoLearn/closingsummary/resourcesandreferences/</link>
       <pubDate>Mon, 12 Oct 2020 20:18:29 -0700</pubDate>
       
-      <guid>/closingsummary/resourcesandreferences/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/closingsummary/resourcesandreferences/</guid>
       <description>Links to additional materials:
  For more information on vSphere with Tanzu check out the vSphere product page. vSphere with Tanzu by Kit Colbert vSphere with Tanzu - YouTube by Sheldon D&#39;Paiva  ebook: Deliver Developer-Ready Infrastructure Using vSphere with Tanzu KubeAcademy courses are composed of a series of bite-size video lessons - terrific resource for learning about containers, Kubernetes, and Cloud Native Concepts. Scaling a Tanzu Kubernetes Cluster by Kenny Coleman An Elevated View of the Tanzu Kubernetes Kubernetes Grid Service Architecture by Kenny Coleman Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for vSphere by Kenny Coleman  Web: https://tanzu.</description>
     </item>
     
     <item>
       <title>Course Survey</title>
-      <link>/closingsummary/coursesurvey/</link>
+      <link>https://afewell.github.io/testHugoLearn/closingsummary/coursesurvey/</link>
       <pubDate>Mon, 12 Oct 2020 20:20:14 -0700</pubDate>
       
-      <guid>/closingsummary/coursesurvey/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/closingsummary/coursesurvey/</guid>
       <description>Your Survey response is critical to help ensure we can support the business case to continue this program and is greatly appreciated!
 Completion of the course survey is required to receive a certificate of completion for this course.
 Please complete the Survey for this course at this link.</description>
@@ -30,10 +30,10 @@ Please complete the Survey for this course at this link.</description>
     
     <item>
       <title>Course Feedback</title>
-      <link>/closingsummary/coursefeedback/</link>
+      <link>https://afewell.github.io/testHugoLearn/closingsummary/coursefeedback/</link>
       <pubDate>Mon, 12 Oct 2020 20:20:26 -0700</pubDate>
       
-      <guid>/closingsummary/coursefeedback/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/closingsummary/coursefeedback/</guid>
       <description>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!
 Completion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.
 The link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form.</description>
@@ -41,10 +41,10 @@ The link below opens a ticket where you can provide any free-text response you w
     
     <item>
       <title>Course Complete</title>
-      <link>/closingsummary/coursecomplete/</link>
+      <link>https://afewell.github.io/testHugoLearn/closingsummary/coursecomplete/</link>
       <pubDate>Mon, 12 Oct 2020 20:20:53 -0700</pubDate>
       
-      <guid>/closingsummary/coursecomplete/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/closingsummary/coursecomplete/</guid>
       <description>Thank you for completing the course!
 Please see the progress tab in this course to see a record of your assessment grading. If you have completed the course assessments with a score above the passing grade, the progress tab will display the option to receive a certificate of course completion.
 Please check out modernapps.ninja to see additional courses, and join our google group to receive regular updates as new courses and content are added frequently.</description>

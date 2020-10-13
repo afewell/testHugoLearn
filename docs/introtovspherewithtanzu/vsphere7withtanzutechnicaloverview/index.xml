@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vSphere 7 With Tanzu Technical Overview on vSphere with Tanzu 101</title>
-    <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/</link>
+    <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/</link>
     <description>Recent content in vSphere 7 With Tanzu Technical Overview on vSphere with Tanzu 101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 03:24:25 -0700</lastBuildDate><atom:link href="/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 03:24:25 -0700</lastBuildDate><atom:link href="https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Elevated View of the Tanzu Kubernetes Grid Service Architecture</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</link>
       <pubDate>Mon, 12 Oct 2020 18:43:58 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>WCP and Supervisor Cluster Part 1</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</link>
       <pubDate>Mon, 12 Oct 2020 18:44:38 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>SupervisorClusterHowItWorks</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</link>
       <pubDate>Mon, 12 Oct 2020 18:46:50 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>WCP and Supervisor Cluster Part 2</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</link>
       <pubDate>Mon, 12 Oct 2020 18:44:48 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>SupervisorNamespaces</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</link>
       <pubDate>Mon, 12 Oct 2020 20:02:44 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>AppDeploymentOnVsphereWithTanzu</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</link>
       <pubDate>Mon, 12 Oct 2020 18:47:30 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Demo - How to Deploy vSphere with Tanzu</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</link>
       <pubDate>Mon, 12 Oct 2020 20:05:26 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Demo - Working with TKG Clusters</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</link>
       <pubDate>Mon, 12 Oct 2020 20:06:11 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Demo - Tanzu Mission Control for Tanzu Standard</title>
-      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</link>
+      <link>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</link>
       <pubDate>Mon, 12 Oct 2020 20:06:48 -0700</pubDate>
       
-      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</guid>
+      <guid>https://afewell.github.io/testHugoLearn/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</guid>
       <description>   </description>
     </item>
     
