@@ -1,0 +1,7 @@
+baseURL = "$baseUrl"
+languageCode = "?"
+title = "My New Hugo Site"
+theme = "learn"
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

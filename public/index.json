@@ -1,0 +1,162 @@
+[
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/vsphere-7-with-tanzu-technical-overview/",
+	"title": "VSphere 7 With Tanzu Technical Overview",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/tanzu-kubernetes-grid-overview/",
+	"title": "Tanzu Kubernetes Grid Overview",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/",
+	"title": "The Big Picture",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/",
+	"title": "Introduction to VSphere With Tanzu",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/",
+	"title": "Course Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Course Introduction Welcome to the Course! Please click on the right arrow to proceed with the course.\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/",
+	"title": "vSphere with Tanzu 101",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/compare-vsphere-with-tanzu-whiteboard/",
+	"title": "Compare VSphere With Tanzu Whiteboard",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-whiteboard/",
+	"title": "VSphere With Tanzu Whiteboard",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/cloud-native-infrastructure-requirements/",
+	"title": "Cloud Native Infrastructure Requirements",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/kubernetes-impact-and-opportunity/",
+	"title": "Kubernetes Impact and Opportunity",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/the-need-for-infrastructure-modernization/",
+	"title": "The Need for Infrastructure Modernization",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-features-and-benefits/",
+	"title": "VSphere With Tanzu Features and Benefits",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/what-is-vsphere-with-tanzu/",
+	"title": "What Is VSphere With Tanzu",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/introducing-vsphere-with-tanzu/",
+	"title": "Introducing VSphere With Tanzu",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-modernapps-ninja-learning-community/",
+	"title": "Welcome to the ModernApps Ninja Learning Community",
+	"tags": [],
+	"description": "",
+	"content": "Section Header level 1 1.1 Hi this is a lab\nSubsection Header Level 2 2.1 do this stuff\n"
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/course-feedback/",
+	"title": "Course Feedback",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/course-updates-and-freshness/",
+	"title": "Course Updates and Freshness",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/pre-requisites/",
+	"title": "Pre Requisites",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/target-audience/",
+	"title": "Target Audience",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-course/",
+	"title": "Welcome to the Course",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/course-introduction/tech-preview/",
+	"title": "Tech Preview",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://testcourse.modernapps.ninja/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

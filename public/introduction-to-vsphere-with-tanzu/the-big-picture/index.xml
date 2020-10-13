@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Big Picture on vSphere with Tanzu 101</title>
+    <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/</link>
+    <description>Recent content in The Big Picture on vSphere with Tanzu 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 03:08:56 -0700</lastBuildDate><atom:link href="http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compare VSphere With Tanzu Whiteboard</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/compare-vsphere-with-tanzu-whiteboard/</link>
+      <pubDate>Fri, 09 Oct 2020 03:17:37 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/compare-vsphere-with-tanzu-whiteboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Whiteboard</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-whiteboard/</link>
+      <pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-whiteboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Native Infrastructure Requirements</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/cloud-native-infrastructure-requirements/</link>
+      <pubDate>Fri, 09 Oct 2020 03:14:12 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/cloud-native-infrastructure-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Impact and Opportunity</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/kubernetes-impact-and-opportunity/</link>
+      <pubDate>Fri, 09 Oct 2020 03:13:40 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/kubernetes-impact-and-opportunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Need for Infrastructure Modernization</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/the-need-for-infrastructure-modernization/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:24 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/the-need-for-infrastructure-modernization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Features and Benefits</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-features-and-benefits/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:05 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/vsphere-with-tanzu-features-and-benefits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is VSphere With Tanzu</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/what-is-vsphere-with-tanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:43 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/what-is-vsphere-with-tanzu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing VSphere With Tanzu</title>
+      <link>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/introducing-vsphere-with-tanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:21 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/introduction-to-vsphere-with-tanzu/the-big-picture/introducing-vsphere-with-tanzu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

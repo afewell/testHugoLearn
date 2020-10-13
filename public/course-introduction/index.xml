@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Introduction on vSphere with Tanzu 101</title>
+    <link>http://testcourse.modernapps.ninja/course-introduction/</link>
+    <description>Recent content in Course Introduction on vSphere with Tanzu 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 03:02:31 -0700</lastBuildDate><atom:link href="http://testcourse.modernapps.ninja/course-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the ModernApps Ninja Learning Community</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-modernapps-ninja-learning-community/</link>
+      <pubDate>Fri, 09 Oct 2020 03:07:21 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-modernapps-ninja-learning-community/</guid>
+      <description>Section Header level 1 1.1 Hi this is a lab
+Subsection Header Level 2 2.1 do this stuff</description>
+    </item>
+    
+    <item>
+      <title>Course Feedback</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/course-feedback/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:42 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/course-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course Updates and Freshness</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/course-updates-and-freshness/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:21 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/course-updates-and-freshness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre Requisites</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/pre-requisites/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:56 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/pre-requisites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target Audience</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/target-audience/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:39 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/target-audience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Course</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-course/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:22 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/welcome-to-the-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Preview</title>
+      <link>http://testcourse.modernapps.ninja/course-introduction/tech-preview/</link>
+      <pubDate>Fri, 09 Oct 2020 03:03:46 -0700</pubDate>
+      
+      <guid>http://testcourse.modernapps.ninja/course-introduction/tech-preview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
