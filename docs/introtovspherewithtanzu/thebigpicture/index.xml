@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Big Picture on vSphere with Tanzu 101</title>
+    <link>/introtovspherewithtanzu/thebigpicture/</link>
+    <description>Recent content in The Big Picture on vSphere with Tanzu 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 03:08:56 -0700</lastBuildDate><atom:link href="/introtovspherewithtanzu/thebigpicture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing VSphere With Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:21 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/</guid>
+      <description>*Please Note - vSphere with Kubernetes has been renamed to vSphere with Tanzu.   </description>
+    </item>
+    
+    <item>
+      <title>What Is VSphere With Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:43 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Features and Benefits</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:05 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>The Need for Infrastructure Modernization</title>
+      <link>/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:24 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Impact and Opportunity</title>
+      <link>/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/</link>
+      <pubDate>Fri, 09 Oct 2020 03:13:40 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/</guid>
+      <description>*Please note: Project Pacific was the pre-release code name for vSphere 7 with Tanzu   </description>
+    </item>
+    
+    <item>
+      <title>Cloud Native Infrastructure Requirements</title>
+      <link>/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/</link>
+      <pubDate>Fri, 09 Oct 2020 03:14:12 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Whiteboard</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/</link>
+      <pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Compare VSphere and VCF with Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:17:37 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Intro to vSphere with Tanzu Section Summary</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/</link>
+      <pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

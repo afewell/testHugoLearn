@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vSphere with Tanzu 101</title>
+    <link>/</link>
+    <description>Recent content on vSphere with Tanzu 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 20:20:53 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Preview</title>
+      <link>/courseintroduction/techpreview/</link>
+      <pubDate>Fri, 09 Oct 2020 03:03:46 -0700</pubDate>
+      
+      <guid>/courseintroduction/techpreview/</guid>
+      <description>Please Note: This course is currently in technical preview for additional review and feedback before the course is generally available. The purpose of the preview is to validate all information in the course and to receive input on additions on improvements we can make before GA.
+Accordingly, please be aware that any technical details in the course are still under review and may not be fully accurate.
+Your feedback is extremely important!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Course</title>
+      <link>/courseintroduction/welcometothecourse/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:22 -0700</pubDate>
+      
+      <guid>/courseintroduction/welcometothecourse/</guid>
+      <description>This course provides a technical introduction to vSphere with Tanzu.
+If you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course. This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.</description>
+    </item>
+    
+    <item>
+      <title>Target Audience</title>
+      <link>/courseintroduction/targetaudience/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:39 -0700</pubDate>
+      
+      <guid>/courseintroduction/targetaudience/</guid>
+      <description>This course is designed for Information Technology Professionals interested in learning more about VMware vSphere with Tanzu.
+Please complete the course prerequisites and review the lab completion difficulty to ensure you are fully prepared to succeed in this course.</description>
+    </item>
+    
+    <item>
+      <title>Pre Requisites</title>
+      <link>/courseintroduction/prerequisites/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:56 -0700</pubDate>
+      
+      <guid>/courseintroduction/prerequisites/</guid>
+      <description>We recommend taking the Introduction to VMware Tanzu Portfolio course prior to taking the vSphere with Tanzu 101 course. We also recommend completing the ModernApps Ninja 101 course to learn about the community resources available to support this course and maximize your learning experience.
+This course assumes familiarity with Kubernetes and Cloud Native Technologies. If you are not familiar with these technologies, we recommend checking out KubeAcademy by VMware, which has a terrific set of free, bite-size video resources on the basics of containers, Kubernetes and cloud native that are great for beginners.</description>
+    </item>
+    
+    <item>
+      <title>Course Updates and Freshness</title>
+      <link>/courseintroduction/courseupdatesandfreshness/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:21 -0700</pubDate>
+      
+      <guid>/courseintroduction/courseupdatesandfreshness/</guid>
+      <description>We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always please refer to the official VMware Tanzu Portfiolio Website and your VMware account team for the latest details on products covered in this course. As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle.</description>
+    </item>
+    
+    <item>
+      <title>Course Feedback</title>
+      <link>/courseintroduction/coursefeedback/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:42 -0700</pubDate>
+      
+      <guid>/courseintroduction/coursefeedback/</guid>
+      <description>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!
+Completion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.
+The link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form.</description>
+    </item>
+    
+    <item>
+      <title>Introducing VSphere With Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:21 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/introducingvspherewithtanzu/</guid>
+      <description>*Please Note - vSphere with Kubernetes has been renamed to vSphere with Tanzu.   </description>
+    </item>
+    
+    <item>
+      <title>What Is VSphere With Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:11:43 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/whatisvspherewithtanzu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Features and Benefits</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:05 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzufeaturesandbenefits/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>The Need for Infrastructure Modernization</title>
+      <link>/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/</link>
+      <pubDate>Fri, 09 Oct 2020 03:12:24 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/theneedforinfrastructuremodernization/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Impact and Opportunity</title>
+      <link>/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/</link>
+      <pubDate>Fri, 09 Oct 2020 03:13:40 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/kubernetesimpactandopportunity/</guid>
+      <description>*Please note: Project Pacific was the pre-release code name for vSphere 7 with Tanzu   </description>
+    </item>
+    
+    <item>
+      <title>Cloud Native Infrastructure Requirements</title>
+      <link>/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/</link>
+      <pubDate>Fri, 09 Oct 2020 03:14:12 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/cloudnativeinfrastructurerequirements/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>VSphere With Tanzu Whiteboard</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/</link>
+      <pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuwhiteboard/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Compare VSphere and VCF with Tanzu</title>
+      <link>/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/</link>
+      <pubDate>Fri, 09 Oct 2020 03:17:37 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/comparevsphereandvcfwithtanzu/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Intro to vSphere with Tanzu Section Summary</title>
+      <link>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/</link>
+      <pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/thebigpicture/vspherewithtanzuintrosummary/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Refresher</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</link>
+      <pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/kubernetesrefresher/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Requirements For Operating Kubernetes</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</link>
+      <pubDate>Mon, 12 Oct 2020 18:35:13 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/requirementsforoperatingk8s/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>What Is Tanzu Kubernetes Grid?</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</link>
+      <pubDate>Mon, 12 Oct 2020 18:39:19 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/whatistkg/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>TKG Key Capabilities</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</link>
+      <pubDate>Mon, 12 Oct 2020 18:40:02 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgkeycapabilities/</guid>
+      <description>Tanzu Kubernetes Grid Key CapabilitiesReliably deploy and run containerized workloads across private and public clouds.
+Consistent Kubernetes everywhereUse your existing data center tools and workflows to give developers secure, self-serve access to conformant Kubernetes clusters in your VMware private cloud, and extend the same consistent Kubernetes runtime across your public cloud and edge environments.
+Automated multicluster operationsSimplify operations of large-scale, multicluster Kubernetes environments, and keep your workloads properly isolated.</description>
+    </item>
+    
+    <item>
+      <title>Operating Kubernetes with TKG</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</link>
+      <pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/operatingk8swithtkg/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>TKG Features and Benefits</title>
+      <link>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</link>
+      <pubDate>Mon, 12 Oct 2020 18:40:54 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/tanzukubernetesgridoverview/tkgfeaturesandbenefits/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>An Elevated View of the Tanzu Kubernetes Grid Service Architecture</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</link>
+      <pubDate>Mon, 12 Oct 2020 18:43:58 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/elevatedviewoftkg/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>WCP and Supervisor Cluster Part 1</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</link>
+      <pubDate>Mon, 12 Oct 2020 18:44:38 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp1/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>SupervisorClusterHowItWorks</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</link>
+      <pubDate>Mon, 12 Oct 2020 18:46:50 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisorclusterhowitworks/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>WCP and Supervisor Cluster Part 2</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</link>
+      <pubDate>Mon, 12 Oct 2020 18:44:48 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/wcpandsupervisorclusterp2/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>SupervisorNamespaces</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</link>
+      <pubDate>Mon, 12 Oct 2020 20:02:44 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/supervisornamespaces/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>AppDeploymentOnVsphereWithTanzu</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</link>
+      <pubDate>Mon, 12 Oct 2020 18:47:30 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/appdeploymentonvspherewithtanzu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Demo - How to Deploy vSphere with Tanzu</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</link>
+      <pubDate>Mon, 12 Oct 2020 20:05:26 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demohowtodeployvspherewithtanzu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Demo - Working with TKG Clusters</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</link>
+      <pubDate>Mon, 12 Oct 2020 20:06:11 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demoworkingwithtkgclusters/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Demo - Tanzu Mission Control for Tanzu Standard</title>
+      <link>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</link>
+      <pubDate>Mon, 12 Oct 2020 20:06:48 -0700</pubDate>
+      
+      <guid>/introtovspherewithtanzu/vsphere7withtanzutechnicaloverview/demotmcfortanzustandard/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Resources and References</title>
+      <link>/closingsummary/resourcesandreferences/</link>
+      <pubDate>Mon, 12 Oct 2020 20:18:29 -0700</pubDate>
+      
+      <guid>/closingsummary/resourcesandreferences/</guid>
+      <description>Links to additional materials:
+ For more information on vSphere with Tanzu check out the vSphere product page. vSphere with Tanzu by Kit Colbert vSphere with Tanzu - YouTube by Sheldon D&#39;Paiva  ebook: Deliver Developer-Ready Infrastructure Using vSphere with Tanzu KubeAcademy courses are composed of a series of bite-size video lessons - terrific resource for learning about containers, Kubernetes, and Cloud Native Concepts. Scaling a Tanzu Kubernetes Cluster by Kenny Coleman An Elevated View of the Tanzu Kubernetes Kubernetes Grid Service Architecture by Kenny Coleman Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for vSphere by Kenny Coleman  Web: https://tanzu.</description>
+    </item>
+    
+    <item>
+      <title>Course Survey</title>
+      <link>/closingsummary/coursesurvey/</link>
+      <pubDate>Mon, 12 Oct 2020 20:20:14 -0700</pubDate>
+      
+      <guid>/closingsummary/coursesurvey/</guid>
+      <description>Your Survey response is critical to help ensure we can support the business case to continue this program and is greatly appreciated!
+Completion of the course survey is required to receive a certificate of completion for this course.
+Please complete the Survey for this course at this link.</description>
+    </item>
+    
+    <item>
+      <title>Course Feedback</title>
+      <link>/closingsummary/coursefeedback/</link>
+      <pubDate>Mon, 12 Oct 2020 20:20:26 -0700</pubDate>
+      
+      <guid>/closingsummary/coursefeedback/</guid>
+      <description>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!
+Completion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.
+The link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form.</description>
+    </item>
+    
+    <item>
+      <title>Course Complete</title>
+      <link>/closingsummary/coursecomplete/</link>
+      <pubDate>Mon, 12 Oct 2020 20:20:53 -0700</pubDate>
+      
+      <guid>/closingsummary/coursecomplete/</guid>
+      <description>Thank you for completing the course!
+Please see the progress tab in this course to see a record of your assessment grading. If you have completed the course assessments with a score above the passing grade, the progress tab will display the option to receive a certificate of course completion.
+Please check out modernapps.ninja to see additional courses, and join our google group to receive regular updates as new courses and content are added frequently.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the ModernApps Ninja Learning Community</title>
+      <link>/courseintroduction/welcometotheninjacommunity/</link>
+      <pubDate>Fri, 09 Oct 2020 03:07:21 -0700</pubDate>
+      
+      <guid>/courseintroduction/welcometotheninjacommunity/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Introduction on vSphere with Tanzu 101</title>
+    <link>/courseintroduction/</link>
+    <description>Recent content in Course Introduction on vSphere with Tanzu 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 03:02:31 -0700</lastBuildDate><atom:link href="/courseintroduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Preview</title>
+      <link>/courseintroduction/techpreview/</link>
+      <pubDate>Fri, 09 Oct 2020 03:03:46 -0700</pubDate>
+      
+      <guid>/courseintroduction/techpreview/</guid>
+      <description>Please Note: This course is currently in technical preview for additional review and feedback before the course is generally available. The purpose of the preview is to validate all information in the course and to receive input on additions on improvements we can make before GA.
+Accordingly, please be aware that any technical details in the course are still under review and may not be fully accurate.
+Your feedback is extremely important!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Course</title>
+      <link>/courseintroduction/welcometothecourse/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:22 -0700</pubDate>
+      
+      <guid>/courseintroduction/welcometothecourse/</guid>
+      <description>This course provides a technical introduction to vSphere with Tanzu.
+If you complete all steps in this course, you can request a certificate of completion, by following the instructions provided at the end of the course. This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.</description>
+    </item>
+    
+    <item>
+      <title>Target Audience</title>
+      <link>/courseintroduction/targetaudience/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:39 -0700</pubDate>
+      
+      <guid>/courseintroduction/targetaudience/</guid>
+      <description>This course is designed for Information Technology Professionals interested in learning more about VMware vSphere with Tanzu.
+Please complete the course prerequisites and review the lab completion difficulty to ensure you are fully prepared to succeed in this course.</description>
+    </item>
+    
+    <item>
+      <title>Pre Requisites</title>
+      <link>/courseintroduction/prerequisites/</link>
+      <pubDate>Fri, 09 Oct 2020 03:05:56 -0700</pubDate>
+      
+      <guid>/courseintroduction/prerequisites/</guid>
+      <description>We recommend taking the Introduction to VMware Tanzu Portfolio course prior to taking the vSphere with Tanzu 101 course. We also recommend completing the ModernApps Ninja 101 course to learn about the community resources available to support this course and maximize your learning experience.
+This course assumes familiarity with Kubernetes and Cloud Native Technologies. If you are not familiar with these technologies, we recommend checking out KubeAcademy by VMware, which has a terrific set of free, bite-size video resources on the basics of containers, Kubernetes and cloud native that are great for beginners.</description>
+    </item>
+    
+    <item>
+      <title>Course Updates and Freshness</title>
+      <link>/courseintroduction/courseupdatesandfreshness/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:21 -0700</pubDate>
+      
+      <guid>/courseintroduction/courseupdatesandfreshness/</guid>
+      <description>We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always please refer to the official VMware Tanzu Portfiolio Website and your VMware account team for the latest details on products covered in this course. As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle.</description>
+    </item>
+    
+    <item>
+      <title>Course Feedback</title>
+      <link>/courseintroduction/coursefeedback/</link>
+      <pubDate>Fri, 09 Oct 2020 03:06:42 -0700</pubDate>
+      
+      <guid>/courseintroduction/coursefeedback/</guid>
+      <description>Your feedback for this course is critical to help ensure we can improve course content and quality and is greatly appreciated!
+Completion of the feedback form (issue ticket) is required to receive a certificate of completion for this course.
+The link below opens a ticket where you can provide any free-text response you would like to provide including reports of problems or issues, suggestions for improvement, or general feedback. You can also paste images in the feedback form.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the ModernApps Ninja Learning Community</title>
+      <link>/courseintroduction/welcometotheninjacommunity/</link>
+      <pubDate>Fri, 09 Oct 2020 03:07:21 -0700</pubDate>
+      
+      <guid>/courseintroduction/welcometotheninjacommunity/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
